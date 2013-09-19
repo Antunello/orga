@@ -21,6 +21,7 @@ Tentative Schedule
   * Lists and dictionaries
   * Functions, classes and modules
   * List comprehensions and lambda functions
+  * Materials: http://scipy-lecture-notes.zetatech.org/tweak-intro/
 
 * Ipython -- the advanced Python shell
 
