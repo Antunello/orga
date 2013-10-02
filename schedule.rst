@@ -10,6 +10,7 @@ Tentative Schedule
   * Survey of skill-level/experience
   * Introduce programming projects
   * Python compared to other "solutions".
+  * Materials: `pdf slides <https://github.com/fcl13/orga/blob/master/materials/fall-course-2013-intro-eac28b46aa.pdf?raw=true>`_
 
 * System Installation
 
@@ -34,18 +35,7 @@ Tentative Schedule
 ---------
 
 * More (not so basic) Python
-
-  * lambda, exec, type
-  * Decorators
-  * Namespace, local, global
-  * Docstrings
-  * Import custom modules
-  * Deep-copy, shallow copy
-  * Future (division)
-
-* RST
-
-* Projects definition ?
+* Materials: https://github.com/fcl13/week2
 
 3rd  Oct Valentin
 -----------------
