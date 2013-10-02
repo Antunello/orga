@@ -50,7 +50,6 @@ Tentative Schedule
 3rd  Oct Valentin
 -----------------
 
-* The IPython Notebook
 * Numpy, a little Matplotlib and a little Scipy
 
 10th Oct
