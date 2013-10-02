@@ -42,6 +42,7 @@ Tentative Schedule
 
 * Numpy, a little Matplotlib and a little Scipy
 * Materials:
+
   * https://github.com/fcl13/week3
   * http://scipy-lectures.github.io/intro/numpy/index.html
 
