@@ -111,6 +111,12 @@ Tentative Schedule
   * Other useful packages
   * Cloud computing
 
+* Other useful packages
+
+  * Pandas
+  * Numba
+  * Blaze
+
 19th Dec
 --------
 
