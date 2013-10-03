@@ -49,7 +49,7 @@ Tentative Schedule
 10th Oct
 --------
 
-* Introducing the sh, subprocess module
+* Practive with Numpy, basic Matplotlib
 * Project work
 
 17th Oct Valentin
