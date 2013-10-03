@@ -49,7 +49,9 @@ Tentative Schedule
 10th Oct
 --------
 
-* Practive with Numpy, basic Matplotlib
+* Practice with Numpy, basic Matplotlib
+* Numpy tutorial: http://www.loria.fr/~rougier/teaching/numpy/numpy.html
+* Introducing the sh, subprocess module
 * Project work
 
 17th Oct Valentin
