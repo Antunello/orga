@@ -1,6 +1,11 @@
 Newsfile
 ========
 
+2013-10-09 Wed
+--------------
+
+* Mailinglist is now available at: http://mailman.zetatech.org/mailman/listinfo/fcl13-zetatech.org
+
 2013-10-02 Wed
 --------------
 
