@@ -75,6 +75,7 @@ Tentative Schedule
 --------
 
 * More Matplotlib
+* Please watch: http://pyvideo.org/video/2036/matplotlib-past-present-and-future-scipy-2013
 
 14th Nov Valentin
 -----------------
