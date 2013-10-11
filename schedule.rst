@@ -1,8 +1,8 @@
 Tentative Schedule
 ==================
 
-19th Sept Valentin
-------------------
+Week1 - 19th Sept - Valentin
+----------------------------
 
 * Welcome
 
@@ -31,14 +31,14 @@ Tentative Schedule
   * Using alternative interfaces, QTConsole and IPYNotebook
 
 
-26th Sept
----------
+Week 2 - 26th Sept - Jean-David & Benjamin
+------------------------------------------
 
 * More (not so basic) Python
 * Materials: https://github.com/fcl13/week2
 
-3rd  Oct Valentin
------------------
+Week 3 - 3rd  Oct - Valentin
+----------------------------
 
 * Numpy, a little Matplotlib and a little Scipy
 * Materials:
@@ -46,59 +46,59 @@ Tentative Schedule
   * https://github.com/fcl13/week3
   * http://scipy-lectures.github.io/intro/numpy/index.html
 
-10th Oct
---------
+Week 4 - 10th Oct - Jean-David
+------------------------------
 
 * Practice with Numpy, basic Matplotlib
 * Numpy tutorial: http://www.loria.fr/~rougier/teaching/numpy/numpy.html
 * Introducing the sh, subprocess module
 * Project work
 
-17th Oct Valentin
------------------
+Week 5 - 17th Oct - Valentin
+----------------------------
 
 * Testing, Version Control and Software Carpentry
 
-24th Oct
---------
+Week 6 - 24th Oct - Jean-David & Benjamin
+-----------------------------------------
 
 * Documenting projects with docstrings
 * Writing tests on projects
 * Using git, real world example
 
-31st Oct Valentin
------------------
+Week 7 - 31st Oct - Valentin
+----------------------------
 
 * Matplotlib in depth
 
-7th  Nov
---------
+Week 8 - 7th Nov - Jean-David & Benjamin
+----------------------------------------
 
 * More Matplotlib
 * Please watch: http://pyvideo.org/video/2036/matplotlib-past-present-and-future-scipy-2013
 
-14th Nov Valentin
------------------
+Week 9 - 14th Nov - Valentin
+----------------------------
 
 * Debugging, Profiling and Optimization
 
-21th Nov
---------
+Week 10 - 21th Nov - Jean-David & Benjamin
+------------------------------------------
 
 * Sphinx (or sooner)
 
-28th Nov Valentin
------------------
+Week 11 - 28th Nov - Valentin
+-----------------------------
 
 * Parallelization and Interfacing with C
 
-5th  Dec
---------
+Week 12 - 5th Dec - Jean-David & Benjamin
+-----------------------------------------
 
 * Project work
 
-12th Dec Valentin
------------------
+Week 13 - 12th Dec - Valentin
+-----------------------------
 
 * Project Presentations based on demand
 
@@ -114,7 +114,7 @@ Tentative Schedule
   * Numba
   * Blaze
 
-19th Dec
---------
+Week 14 - 19th Dec
+------------------
 
-* More Project presentations, and written test
+* Written test
