@@ -1,6 +1,18 @@
 Newsfile
 ========
 
+2013-10-11 Wed
+--------------
+
+* schedule.rst was updated and expanded
+* ``intro`` was renamed to ``intro-src``
+* repository ``week1`` was created
+* The PDF slides for the intro talk have moved from ``orga`` to the ``week1``
+  repository.
+* Sources for next weeks talk about testing have been added as
+  ``testing-talk-src`` repository
+
+
 2013-10-09 Wed
 --------------
 
