@@ -1,6 +1,12 @@
 Newsfile
 ========
 
+2013-10-13 Sun
+--------------
+
+* Repository ``week5`` created
+* Slides about testing and git uploaded
+
 2013-10-11 Wed
 --------------
 
