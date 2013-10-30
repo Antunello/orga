@@ -1,6 +1,11 @@
 Newsfile
 ========
 
+2013-10-30 Wed
+--------------
+
+* Repository ``week7`` created
+
 2013-10-13 Sun
 --------------
 
