@@ -1,6 +1,13 @@
 Newsfile
 ========
 
+2013-11-27 Wed
+--------------
+
+* Many things have happend, but the news-file was not updated. If you are
+  reading this, please accept my apologies and let me know that you were in
+  fact following this file.
+
 2013-10-30 Wed
 --------------
 
